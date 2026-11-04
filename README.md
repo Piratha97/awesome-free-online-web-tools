@@ -194,6 +194,7 @@ A curated, searchable directory of **239+ high-performance, completely free, bro
 | **Unit Circle Calculator** | [Launch Tool ↗](https://nextools.org/categories/math-tools/unit-circle-calculator.php) | In-Browser WebAssembly / JS |
 
 ---
+| **Sticker Cost Per Sheet** | [Launch Tool ↗](https://stickerprinterhub.com/sticker-cost-per-sheet/) | In-Browser JS |
 
 ## NUMBER TOOLS
 
