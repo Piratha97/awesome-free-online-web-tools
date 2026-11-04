@@ -152,6 +152,7 @@ A curated, searchable directory of **239+ high-performance, completely free, bro
 | **Tic Tac Toe Game** | [Launch Tool ↗](https://nextools.org/categories/game-tools/tic-tac-toe-game.php) | In-Browser WebAssembly / JS |
 
 ---
+| **ScanChess** | [Launch Tool ↗](https://scanchess.com) | In-Browser JS |
 
 ## IMAGE TOOLS
 
